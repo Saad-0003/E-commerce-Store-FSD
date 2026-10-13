@@ -51,9 +51,9 @@ alto-store/
 
 ## 4. Run it, step by step
 
-**Step 1: Start MySQL in XAMPP.** Open the XAMPP Control Panel and press **Start** next to **MySQL** (it turns green, port 3306). Apache is only needed for Option A below.
+**Step 1: Start MySQL in XAMPP.** Open the XAMPP Control Panel and press **Start** next to **MySQL** (it shall turn green, port 3306). Apache is only needed for Option A below.
 
-**Step 2: Start the backend.** In a terminal:
+**Step 2: Start the backend.** using terminal:
 ```
 cd backend
 npm install
